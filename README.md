@@ -22,4 +22,4 @@ tool provides a test suite through an IDE that has a record feature that can gen
 interface. This can be done on any given web application. Selenium underscores the value of testing due to its ability to test across
 multiple platforms (such as multiple web browsers and multiple operating systems.
 
-For more information and examples go to SeleniumReport.docx.docx file
+For more information and examples go to SeleniumReport.docx.docx and Selenium PowerPoint.pptx files
